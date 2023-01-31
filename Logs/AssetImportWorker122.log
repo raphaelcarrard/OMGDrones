@@ -1,0 +1,337 @@
+Using pre-set license
+Built from '2022.1/staging' branch; Version is '2022.1.23f1 (9636b062134a) revision 9844400'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'pt' Physical Memory: 3979 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.1.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker122
+-projectPath
+C:/Users/rapha/OneDrive/Documentos/OMG! Drones/OMG! Drones
+-logFile
+Logs/AssetImportWorker122.log
+-srvPort
+49381
+Successfully changed project path to: C:/Users/rapha/OneDrive/Documentos/OMG! Drones/OMG! Drones
+C:/Users/rapha/OneDrive/Documentos/OMG! Drones/OMG! Drones
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     19312 5574 -
+     13084 4650 -
+     19312 34fc -
+      6752 680 -
+      1504 4b84 -
+     14832 30c8 -
+     18864 44d0 -
+       328 948 -
+      9008 2174 -
+     20096 49a8 -
+      1240 2148 -
+     18084 2274 -
+     19312 c44 -
+     15648 3314 -
+     16824 2008 -
+      8980 5328 -
+      8604 53d8 -
+     15864 4c28 -
+     12784 3174 -
+     13336 1f60 -
+     16524 4a2c -
+     15592 21e8 -
+     12664 2928 -
+     14424 3f88 -
+     13036 1fb0 -
+     19264 1fb4 -
+     12280 37a0 -
+     19048 2610 -
+     20832 3538 -
+      7832 2fe4 -
+     17556 2c14 -
+     10480 744 -
+     17228 271c -
+     17080 44bc -
+     15804 2d18 -
+     13660 1650 -
+     19312 3154 -
+     11400 3dc0 -
+     13060 3210 -
+     19092 5480 -
+     17648 2c7c -
+      1508 2efc -
+     13148 2b44 -
+     22276 47ac -
+     14308 5180 -
+     15776 3ab0 -
+     16348 1e10 -
+      9064 4688 -
+      7800 4b00 -
+      2032 8a8 -
+     19548 25bc -
+     20008 2e20 -
+     15932 3698 -
+     11812 3888 -
+      8804 4f20 -
+     13016 4e04 -
+     15264 35b4 -
+      5748 4e10 -
+     10400 2d74 -
+     17152 2644 -
+     15708 3758 -
+     22228 3444 -
+     22192 2890 -
+     17524 3078 -
+     11656 466c -
+     17360 39c4 -
+      5928 5600 -
+     14256 25d0 -
+     19440 1338 -
+     11288 3b98 -
+      4332 2408 -
+     22320 3a88 -
+     10412 3e98 -
+     15148 535c -
+     10716 16dc -
+     15248 2484 -
+      5564 2738 -
+     21612 25c0 -
+     15956 2924 -
+     10940 3760 -
+     22504 2d48 -
+     10288 55c0 -
+     11272 2f68 -
+     13740 578c -
+     20384 140c -
+      7164 25c4 -
+     21484 572c -
+      7716 38d4 -
+     15224 a90 -
+     16932 17c4 -
+      8848 4c24 -
+     18944 2d38 -
+      6432 1db8 -
+     16228 55e8 -
+     22344 1a2c -
+      1816 19e0 -
+     21076 3770 -
+      4312 2dec -
+     16896 4ca0 -
+     11744 5010 -
+     14668 564 -
+      7992 505c -
+      8788 238 -
+     20748 540c -
+     22448 1a28 -
+     16768 4dac -
+     20764 1b30 -
+     13932 3a3c -
+     18184 fb0 -
+     15368 49c0 -
+     19992 1ff0 -
+      9208 23f4 -
+      5148 53a0 -
+      7932 23c8 -
+       332 370c 2543
+      7976 2160 -
+      9748 4ee0 -
+      2864 d70 -
+     15384 3374 -
+     22252 3ea4 -
+      7324 28cc -
+     21348 2f7c -
+      3336 704 -
+      6436 454c -
+      3896 57b8 -
+     19396 18ec -
+Cleaned out 121 stale readers
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     19312 5574 -
+     13084 4650 -
+     19312 4498 -
+     19312 c44 -
+      6752 680 -
+      1504 4b84 -
+     14832 30c8 -
+     18864 44d0 -
+       328 948 -
+      9008 2174 -
+     20096 49a8 -
+      1240 2148 -
+     18084 2274 -
+     15648 3314 -
+      8980 5328 -
+      8604 53d8 -
+     15864 4c28 -
+     12784 3174 14138
+     13336 1f60 14139
+     16524 4a2c 14140
+     15592 21e8 -
+     12664 2928 -
+     14424 3f88 -
+     13036 1fb0 -
+     19264 1fb4 -
+     12280 37a0 14146
+     19048 2610 14147
+     20832 3538 -
+      7832 2fe4 14149
+     17556 2c14 14150
+     10480 744 14151
+     17228 271c -
+     16824 2008 -
+     17080 44bc -
+     15804 2d18 -
+     11400 3dc0 -
+     19312 3154 -
+     13660 1650 -
+     13060 3210 -
+     19092 5480 -
+     17648 2c7c -
+      1508 2efc -
+     13148 2b44 -
+     22276 47ac -
+     14308 5180 -
+     15776 3ab0 -
+     16348 1e10 -
+      9064 4688 -
+      7800 4b00 -
+      2032 8a8 -
+     19548 25bc -
+     20008 2e20 -
+     15932 3698 -
+     11812 3888 -
+      8804 4f20 -
+     13016 4e04 14232
+     15264 35b4 -
+      5748 4e10 -
+     10400 2d74 -
+     17152 2644 14236
+     15708 3758 -
+     22228 3444 -
+     22192 2890 -
+     17524 3078 -
+     11656 466c -
+     17360 39c4 -
+      5928 5600 -
+     14256 25d0 -
+     19440 1338 -
+     11288 3b98 -
+      4332 2408 -
+     22320 3a88 -
+     10412 3e98 -
+     15148 535c -
+     14668 564 -
+     15248 2484 -
+     10716 16dc -
+      5564 2738 -
+     21612 25c0 -
+     15956 2924 -
+     10940 3760 -
+     22504 2d48 -
+     10288 55c0 -
+     11272 2f68 -
+     13740 578c -
+     20384 140c -
+      7164 25c4 -
+     21484 572c -
+      7716 38d4 -
+     15224 a90 -
+     16932 17c4 -
+      8848 4c24 -
+     18944 2d38 -
+      6432 1db8 -
+     16228 55e8 -
+     22344 1a2c -
+      1816 19e0 -
+     21076 3770 -
+      4312 2dec -
+     16896 4ca0 -
+     11744 5010 -
+      7992 505c -
+      8788 238 -
+     20748 540c -
+     22448 1a28 -
+     16768 4dac -
+     20764 1b30 -
+     13932 3a3c -
+     18184 fb0 -
+     15368 49c0 -
+     19992 1ff0 -
+      9208 23f4 -
+      5148 53a0 -
+      7932 23c8 -
+       332 370c 14349
+      7976 2160 -
+      9748 4ee0 -
+      2864 d70 14352
+     15384 3374 -
+     22252 3ea4 -
+      7324 28cc -
+     21348 2f7c -
+      3336 704 -
+      6436 454c 14358
+      3896 57b8 -
+     19396 18ec -
+Cleaned out 121 stale readers
+Refreshing native plugins compatible for Editor in 1517.66 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.1.23f1 (9636b062134a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rapha/OneDrive/Documentos/OMG! Drones/OMG! Drones/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+    Driver:   9.17.10.4459
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56704
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.23f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.204488 seconds.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
